@@ -152,27 +152,27 @@ nav
 
 .sliderItem:nth-child(1) .sliderBg
 {
-    background-color: green;
+    background-color: rgb(113, 153, 113);
 }
 
 .sliderItem:nth-child(2) .sliderBg
 {
-    background-color: blue;
+    background-color: rgb(142, 148, 160);
 }
 
 .sliderItem:nth-child(3) .sliderBg
 {
-    background-color: palevioletred;
+    background-color: rgb(211, 148, 208);
 }
 
 .sliderItem:nth-child(4) .sliderBg
 {
-    background-color: red;
+    background-color: rgb(233, 145, 145);
 }
 
 .sliderItem:nth-child(5) .sliderBg
 {
-    background-color: orange;
+    background-color: rgb(230, 193, 124);
 }
 
 .features
